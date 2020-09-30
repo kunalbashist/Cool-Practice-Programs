@@ -1,4 +1,4 @@
-// Program to read 'n' real numbers and print the maximum of them
+// Program to read 'n' real numbers and print the minimum of them
 // Faheem Hassan Zunjani
 
 #include<stdio.h>
