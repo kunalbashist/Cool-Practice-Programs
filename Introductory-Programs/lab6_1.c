@@ -174,11 +174,7 @@ void prod_matrix(){
 
 
 int main(){
-  int A[1000][1000],B[1000][1000],C[1000][1000];
-  int i=0,j=0,k=0,l=0,m=0,n=0;
-  int nr1,nr2,nc1,nc2;
   char ch;
-
   printf("        Menu \n");
   printf("A. Add two matrices \n");
   printf("B. Subtract two matrices \n");
